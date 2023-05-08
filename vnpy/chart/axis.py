@@ -5,7 +5,7 @@ import pyqtgraph as pg
 
 from .manager import BarManager
 from .base import AXIS_WIDTH, NORMAL_FONT, QtGui
-
+#add dev commit
 
 class DatetimeAxis(pg.AxisItem):
     """"""
